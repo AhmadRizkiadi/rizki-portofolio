@@ -56,9 +56,8 @@ h1, h2, h3 { min-width: 0; overflow-wrap: anywhere; font-style: normal; }
 .project-filter .ant-segmented-item-selected { background: var(--color-paper); color: var(--color-ink); }
 .project-grid { display: grid; grid-template-columns: repeat(12, minmax(0, 1fr)); gap: var(--space-md); }
 .project-card { background: var(--color-paper); color: var(--color-ink); min-height: 430px; grid-column: span 6; cursor: pointer; display: flex; flex-direction: column; overflow: clip; }
-.project-helpdesk { grid-column: span 7; }
-.project-stockify { grid-column: span 5; background: var(--color-paper-deep); }
-.project-smart-waste { grid-column: span 12; }
+.project-stockify { grid-column: span 7; background: var(--color-paper-deep); }
+.project-smart-waste { grid-column: span 5; }
 .project-edesa { grid-column: span 5; background: var(--color-paper-deep); }
 .project-polivent { grid-column: span 7; }
 .project-image { height: 230px; overflow: hidden; border-bottom: var(--rule-thin) solid var(--color-rule); }
@@ -148,7 +147,7 @@ footer { background: var(--color-dark); color: var(--color-white); padding: var(
   .lanyard-stage { min-height: 25rem; }
   .lanyard-rig { width: 14rem; }
   .project-filter { max-width: 100%; overflow-x: auto; }
-  .project-card, .project-stockify, .project-smart-waste, .project-population, .project-event { grid-column: span 12; }
+  .project-card, .project-stockify, .project-smart-waste, .project-edesa, .project-polivent { grid-column: span 12; }
   .about-layout { grid-template-columns: 1fr; gap: var(--space-2xl); }
   .experience { max-width: 38rem; }
   .practice-map article { grid-template-columns: 3rem minmax(13rem, .8fr) minmax(0, 1.2fr); gap: var(--space-lg); }

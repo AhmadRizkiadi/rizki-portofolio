@@ -1,23 +1,5 @@
 export const projects = [
   {
-    key: "helpdesk",
-    title: "HelpDesk Pro",
-    type: "Full-stack MERN",
-    year: "2026",
-    image: "/projects/helpdesk.png",
-    summary: "A SaaS ticketing system featuring real-time chat, Socket.IO alerts, RBAC, and secure token rotation.",
-    challenge: "Deliver a high-security ticket workbench with atomic JWT refresh token rotation and real-time operator sync.",
-    details: [
-      "Real-time notifications via Socket.IO integration",
-      "Secure auth: access/refresh token rotation with HttpOnly cookies",
-      "Role-Based Access Control (Admin, Staff, Client)",
-      "Cloudinary attachments, activity logs (TTL indexed), SLA tracking",
-      "Robust data validation using Zod schemas"
-    ],
-    stack: ["React", "Node.js", "Express", "MongoDB", "Socket.io", "JWT", "Zod"],
-    href: "https://github.com/AhmadRizkiadi/HelpDesk-Pro",
-  },
-  {
     key: "stockify",
     title: "Stockify",
     type: "Full-stack MERN",

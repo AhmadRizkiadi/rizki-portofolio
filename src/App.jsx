@@ -153,11 +153,6 @@ function App() {
           </Motion.div>
         </section>
 
-        <section className="quote-section">
-          <blockquote className="quote-callout">
-            “Complexity is easy; simplicity is hard. A developer’s real skill lies in building systems that are simple, secure, and built to last.”
-          </blockquote>
-        </section>
 
         <section className="about" id="about">
           <div className="section-intro">

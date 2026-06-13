@@ -111,9 +111,9 @@ export const practiceAreas = [
 
 export const skills = [
   { group: "Languages", items: ["JavaScript", "PHP", "SQL", "C++ (Arduino / ESP32)"] },
-  { group: "Frontend", items: ["React.js", "Next.js", "Tailwind CSS", "HTML", "CSS", "Vue 3", "Inertia.js", "Ant Design"] },
-  { group: "Backend", items: ["Node.js", "Express.js", "Laravel", "REST API", "Socket.IO", "JWT", "Zod"] },
-  { group: "Data & tools", items: ["MongoDB", "PostgreSQL", "MySQL", "Git", "GitHub", "Postman", "Docker", "Figma"] },
+  { group: "Frontend", items: ["React.js", "Next.js", "Tailwind CSS", "HTML", "CSS"] },
+  { group: "Backend", items: ["Node.js", "Express.js", "Laravel", "REST API", "JWT", "Zod"] },
+  { group: "Data & tools", items: ["MongoDB", "PostgreSQL", "MySQL", "Git", "GitHub", "Postman"] },
 ];
 
 export const explorations = [

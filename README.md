@@ -3,7 +3,7 @@
 <div align="center">
   <img src="public/diri.jpg" alt="Ahmad Rizkiadi Profile Picture" width="120" style="border-radius: 50%; border: 3px solid #b24d35;" />
   <h3>Ahmad Rizkiadi Budi Wirawan</h3>
-  <p><strong>Backend & Full-stack Developer</strong></p>
+  <p><strong>Backend Developer</strong></p>
   <p>Semarang, Indonesia</p>
 
   <p align="center">
@@ -25,7 +25,7 @@
 
 This is the repository for my **interactive, high-performance developer portfolio**. Built with an **editorial-engineering aesthetic**, it uses a premium, restrained design language (warm paper tones, deep charcoal ink, and bold crimson accents) to showcase my technical projects, embedded hardware work, and engineering philosophy.
 
-The portfolio is tailored specifically for **Backend** and **Full-stack** roles, focusing on clean logic, security, hardware integrations, and systems-level thinking.
+The portfolio is tailored specifically for **Backend** roles, focusing on clean logic, security, hardware integrations, and systems-level thinking.
 
 ---
 

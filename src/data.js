@@ -75,9 +75,9 @@ export const projects = [
 
 export const practiceAreas = [
   {
-    label: "Full-Stack Development",
+    label: "Backend Development",
     title: "Secure architecture, clear RESTful APIs.",
-    copy: "Creating structured web applications using the MERN stack and Laravel, emphasizing secure token rotation, RBAC, and database modeling.",
+    copy: "Designing robust server-side applications using Express.js and Laravel, emphasizing secure token rotation, RBAC, and clean database schemas.",
   },
   {
     label: "IoT & Applied AI",

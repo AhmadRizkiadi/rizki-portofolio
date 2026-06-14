@@ -52,7 +52,7 @@ function HeroLanyard() {
           </div>
           <figcaption>
             <strong>Ahmad Rizkiadi</strong>
-            <span>Backend / Full-stack Developer</span>
+            <span>Backend Developer</span>
           </figcaption>
           <small>Semarang, Indonesia</small>
         </Motion.figure>
@@ -161,11 +161,11 @@ function App() {
           </div>
           <div className="about-layout">
             <div className="about-copy">
-              <p className="about-lead">I build the parts users interact with and the backend contracts they should never have to worry about.</p>
-              <p>My foundation started with algorithms, networks, and databases. It now spans web applications, API security, machine learning, and connected devices. I enjoy tracing a problem from the people using it to the data, services, and hardware that keep the result dependable.</p>
+              <p className="about-lead">I build high-performance backend systems and the secure API contracts that keep applications dependable.</p>
+              <p>My foundation started with algorithms, networks, and databases. It now spans web applications, API security, machine learning, and connected devices. I enjoy tracing a problem from the database schemas to the services, servers, and hardware that keep the result dependable.</p>
               <div className="about-current">
                 <span>Current direction</span>
-                <strong>Backend and full-stack internships where careful system thinking matters.</strong>
+                <strong>Backend internships where careful system thinking matters.</strong>
               </div>
             </div>
             <div className="experience">
